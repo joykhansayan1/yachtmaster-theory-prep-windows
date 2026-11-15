@@ -1,0 +1,22 @@
+{
+  "id": "./",
+  "name": "Yachtmaster Theory Prep",
+  "short_name": "Yachtmaster Prep",
+  "description": "Coastal Skipper and Yachtmaster Offshore shorebased theory exam prep: 550+ original questions, timed mocks, tidal and chartwork calculators, flashcards and progress tracking. Works offline.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone"],
+  "orientation": "any",
+  "background_color": "#F3F6F9",
+  "theme_color": "#0D2E5C",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["education"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon-1024.png", "sizes": "1024x1024", "type": "image/png", "purpose": "any" }
+  ]
+}
